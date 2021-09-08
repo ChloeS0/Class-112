@@ -1,0 +1,81 @@
+body{
+    background-color: pink;
+    font-family: 'Lobster', cursive;
+}
+
+.title
+{
+    background-color: white;
+
+}
+
+.title img
+{
+width: 100px;
+}
+
+.div
+{
+    margin-top: 20px;
+    border-color: white;
+    border-width: 10px;
+    border-style: solid;
+    background-color: lightcoral;
+    padding: 10px;
+}
+
+.div label{
+    background-color: lightskyblue;
+    width: 300px;
+    padding: 5px ;
+    margin-bottom: 5px;
+    box-shadow: 5px 5px 20px pink;
+}
+
+.div button
+{
+    width: 300px;
+    padding: 5px ;
+    margin-bottom: 5px;
+    box-shadow: 5px 5px 20px pink;
+    font-size: 20px;
+}
+
+#webcam, #webcam_output
+{
+width: 350px;
+height: 300px;
+border-color: black;
+border-width: 10px;
+border-style: solid;
+box-shadow: 5px 5px 20px pink;
+}
+
+.result
+{
+    margin-bottom: 50px;
+
+}
+
+.result h4
+{
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 20px white ;
+}
+
+.result img
+{
+width: 70px;
+}
+
+.footer
+{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    line-height: 3;
+    background-color: grey;
+    text-align: center;
+}
